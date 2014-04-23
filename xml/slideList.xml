@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SLIDELIST>
+	<SLIDE PATH="xml/slides/slide_00.xml"/>
+	<SLIDE PATH="xml/slides/slide_01.xml"/>
+	<SLIDE PATH="xml/slides/slide_02.xml"/>
+	<SLIDE PATH="xml/slides/slide_03.xml"/>
+	<SLIDE PATH="xml/slides/slide_04S.xml"/>
+	<SLIDE PATH="xml/slides/slide_04M.xml"/>
+	<SLIDE PATH="xml/slides/slide_05S.xml"/>
+	<SLIDE PATH="xml/slides/slide_05M.xml"/>
+	<SLIDE PATH="xml/slides/slide_06S.xml"/>
+	<SLIDE PATH="xml/slides/slide_06M.xml"/>
+	<SLIDE PATH="xml/slides/slide_07S.xml"/>
+	<SLIDE PATH="xml/slides/slide_07M.xml"/>
+	<SLIDE PATH="xml/slides/slide_08S.xml"/>
+	<SLIDE PATH="xml/slides/slide_08M.xml"/>
+	<SLIDE PATH="xml/slides/slide_09S.xml"/>
+	<SLIDE PATH="xml/slides/slide_09M.xml"/>
+	<SLIDE PATH="xml/slides/slide_10.xml"/>
+</SLIDELIST>
