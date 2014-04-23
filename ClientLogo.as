@@ -1,0 +1,1 @@
+﻿package {		import flash.display.*;		public class ClientLogo extends Sprite {		public function ClientLogo() {			// constructor code		}	}	}
